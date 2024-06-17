@@ -1,4 +1,5 @@
 # aimimo
 AI 피부분석
 
-aimimo
+페이지 경로
+html\
